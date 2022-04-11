@@ -1,10 +1,9 @@
 numpy>=1.21.5
 matplotlib
 scipy>=1.6.0
-RPI.GPIO
-Adafruit-Blinka
+RPI.GPIO==0.7.1
+Adafruit-Blinka==7.2.0
 adafruit-circuitpython-mlx90640
 flask
-opencv-python
+opencv-python==4.5.5.64
 cmapy
-

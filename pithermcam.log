@@ -1,0 +1,107 @@
+09-Apr-22 13:41:14 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 13:41:34 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:41:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09-Apr-22 13:41:34 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:41:34] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+09-Apr-22 13:41:34 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:41:34] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09-Apr-22 13:41:34 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:41:34] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09-Apr-22 13:41:50 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:41:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09-Apr-22 13:41:50 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:41:50] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09-Apr-22 13:41:50 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:41:50] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09-Apr-22 13:41:50 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:41:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09-Apr-22 13:43:45 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 13:43:49 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:43:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09-Apr-22 13:43:49 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:43:49] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09-Apr-22 13:43:49 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:43:49] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09-Apr-22 13:43:49 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:43:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09-Apr-22 13:43:50 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:43:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09-Apr-22 13:43:50 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:43:50] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09-Apr-22 13:43:50 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:43:50] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09-Apr-22 13:43:50 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:43:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09-Apr-22 13:44:49 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 13:44:52 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09-Apr-22 13:44:52 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09-Apr-22 13:44:52 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09-Apr-22 13:44:52 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09-Apr-22 13:44:55 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09-Apr-22 13:44:55 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09-Apr-22 13:44:55 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09-Apr-22 13:44:55 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09-Apr-22 13:44:58 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09-Apr-22 13:44:58 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:58] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09-Apr-22 13:44:58 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:58] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09-Apr-22 13:44:58 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:44:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09-Apr-22 13:46:01 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 13:46:03 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:46:03] "GET / HTTP/1.1" 200 -
+09-Apr-22 13:46:03 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:46:03] "GET /video_feed HTTP/1.1" 200 -
+09-Apr-22 13:49:14 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 13:49:15 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:15] "GET / HTTP/1.1" 200 -
+09-Apr-22 13:49:15 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:15] "GET /video_feed HTTP/1.1" 200 -
+09-Apr-22 13:49:17 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:17] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:49:20 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:20] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:49:21 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:21] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:49:22 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:22] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:49:23 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:23] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:49:24 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:24] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:49:25 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:25] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:49:28 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:28] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:49:29 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:29] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:49:30 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:49:30] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:51:28 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:51:28] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:51:29 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:51:29] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:51:50 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:51:50] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:51:52 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:51:52] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:51:54 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:51:54] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:51:56 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:51:56] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:51:59 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:51:59] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:52:06 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:52:06] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:52:08 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:52:08] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:53:13 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 13:53:14 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:53:14] "GET / HTTP/1.1" 200 -
+09-Apr-22 13:53:14 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:53:14] "GET /video_feed HTTP/1.1" 200 -
+09-Apr-22 13:53:21 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:53:21] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:55:26 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 13:55:28 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:55:28] "GET / HTTP/1.1" 200 -
+09-Apr-22 13:55:28 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:55:28] "GET /video_feed HTTP/1.1" 200 -
+09-Apr-22 13:57:11 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 13:57:15 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:57:15] "GET / HTTP/1.1" 200 -
+09-Apr-22 13:57:15 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:57:15] "GET /video_feed HTTP/1.1" 200 -
+09-Apr-22 13:58:46 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:58:46] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:58:48 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:58:48] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:58:50 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:58:50] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:58:51 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:58:51] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:58:52 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:58:52] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:58:53 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:58:53] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:58:59 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:58:59] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:59:00 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:00] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:59:03 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:03] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:59:08 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:08] "GET /colormap HTTP/1.1" 200 -
+09-Apr-22 13:59:10 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:10] "GET /colormapback HTTP/1.1" 200 -
+09-Apr-22 13:59:13 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:13] "GET / HTTP/1.1" 200 -
+09-Apr-22 13:59:13 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:13] "GET /video_feed HTTP/1.1" 200 -
+09-Apr-22 13:59:17 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:17] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:18 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:18] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:20 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:20] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:21 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:21] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:22 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:22] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:23 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:23] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:24 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:24] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:24 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:24] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:25 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:25] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:26 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:26] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:28 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:28] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:30 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:30] "GET /interpolation HTTP/1.1" 200 -
+09-Apr-22 13:59:39 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 13:59:39] "[35m[1mGET /exit HTTP/1.1[0m" 500 -
+09-Apr-22 14:24:11 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 14:24:17 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 14:24:17] "GET / HTTP/1.1" 200 -
+09-Apr-22 14:24:17 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 14:24:17] "GET /video_feed HTTP/1.1" 200 -
+09-Apr-22 15:03:20 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 15:03:28 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 15:03:28] "GET / HTTP/1.1" 200 -
+09-Apr-22 15:03:28 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 15:03:28] "GET /video_feed HTTP/1.1" 200 -
+09-Apr-22 15:03:30 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 15:03:30] "GET /save HTTP/1.1" 200 -
+09-Apr-22 15:04:05 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+09-Apr-22 15:04:08 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 15:04:08] "GET / HTTP/1.1" 200 -
+09-Apr-22 15:04:08 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 15:04:08] "GET /video_feed HTTP/1.1" 200 -
+09-Apr-22 15:04:10 INFO     [_internal.py:werkzeug:224] 192.168.1.198 - - [09/Apr/2022 15:04:10] "GET /save HTTP/1.1" 200 -
+10-Apr-22 23:14:23 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+10-Apr-22 23:15:54 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+10-Apr-22 23:17:00 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
+10-Apr-22 23:17:22 INFO     [_internal.py:werkzeug:224]  * Running on http://192.168.1.54:8000 (Press CTRL+C to quit)
