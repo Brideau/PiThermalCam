@@ -7,3 +7,5 @@ adafruit-circuitpython-mlx90640
 flask
 opencv-python==4.5.5.64
 cmapy
+ipython==8.2.0
+ipdb==0.13.9

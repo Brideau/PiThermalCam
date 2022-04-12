@@ -4,6 +4,10 @@
 # Flask web server for MLX90640 Thermal Camera w Raspberry Pi
 # If running directly, run from root folder, not pithermalcam folder
 ##################################
+import os, sys
+file_path = "PiThermalCam-master/"
+sys.path.append(os.path.dirname(file_path))
+
 from pithermalcam import pithermalcam
 
 from flask import Response, request

@@ -11,6 +11,7 @@ import cv2
 import logging
 import cmapy
 from scipy import ndimage
+np.set_printoptions(linewidth=1000)
 
 # Set up logging
 logging.basicConfig(filename='pithermcam.log',filemode='a',
@@ -27,8 +28,8 @@ class pithermalcam:
     _current_frame_processed=False  # Tracks if the current processed image matches the current raw image
     i2c=None
     mlx=None
-    _temp_min=None
-    _temp_max=None
+    _temp_min=10.0
+    _temp_max=40.0
     _raw_image=None
     _image=None
     _file_saved_notification_start=None
@@ -86,8 +87,12 @@ class pithermalcam:
         self._raw_image = np.zeros((24*32,))
         try:
             self.mlx.getFrame(self._raw_image)  # read mlx90640
-            self._temp_min = 10
-            self._temp_max = 40
+            
+            min_current = np.min(self._raw_image)
+            self._temp_min = min(self._temp_min, min_current)
+            max_current = np.max(self._raw_image)
+            self._temp_max = max(self._temp_max, max_current)
+
             self._raw_image=self._temps_to_rescaled_uints(self._raw_image,self._temp_min,self._temp_max)
             self._current_frame_processed=False  # Note that the newly updated raw frame has not been processed
         except ValueError:
